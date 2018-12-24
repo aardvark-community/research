@@ -1,5 +1,4 @@
-
-Basic research/Published work aardvark components are based on:
+Selected work, aardvark related components are based on:
 
  - [An Incremental Rendering VM](https://aardvark-community.github.io/renderingvm/)
  - [CoSMo: Intent-based Composition of Shader Modules](https://aardvark-platform.github.io/lins/)
