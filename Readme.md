@@ -1,4 +1,4 @@
-Selected work, aardvark related components are based on:
+Selected papers, core compontents are built on:
 
  - The aardvark rendering engine is based on incremental evaluation and dynamic compilation for efficient execution of graphics commands. [An Incremental Rendering VM](https://aardvark-community.github.io/renderingvm/) gives an overview on this topic.
  - Aardvark applications typically use [FShade](https://fshade.org/). Some of the concepts have been published earlier in [CoSMo: Intent-based Composition of Shader Modules](https://aardvark-platform.github.io/lins/).
